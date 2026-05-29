@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="main-topic">
+  <title>Main Topic</title>
+  <body>
+    <p>This is the main topic. It references content from the shared library submodule.</p>
+    <p conref="library/concept-reuse.dita#concept-reuse/concept-reuse"/>
+  </body>
+</topic>
